@@ -16,7 +16,7 @@ In het project zijn alle klassen die je nodig hebt al aangemaakt op de correcte 
 
 **BELANGRIJK** wanneer je SQL specifieke imports moet doen, gebruik dan de generieke `java.sql` imports en geen `com.mysql` imports aangezien de testen dan niet zullen werken !!!
 
-**Push voor de deadline van zondag 2 april 2026 23u59 je oplossingen naar je repository**
+**Push voor de deadline van zondag 19 april 2026 23u59 je oplossingen naar je repository**
 
 Veel succes! Je mag me altijd contacteren via [arne.duyver@kuleuven.be](mailto::arne.duyver@kuleuven.be) voor vragen of in de les aanspreken.
 
